@@ -248,7 +248,7 @@ body, html, ul {
   text-align: center;
   padding: 2rem 1rem;
   background-color: #fff;
-  margin: 0px 280px;
+  /* margin: 0px 280px; */
 }
 
 .trust-section h2 {
@@ -270,6 +270,13 @@ body, html, ul {
   color: #444;
   margin-bottom: 1rem;
 }
+
+
+
+
+/* @media (max-width: 768px) { */
+
+
 
 .products-section {
   text-align: center;
